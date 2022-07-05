@@ -11,8 +11,7 @@
 
 
 ## Skills:
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoda233&theme=tokyonight)
 <!--
 **Hoda233/Hoda233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
