@@ -2,8 +2,10 @@
 #### A Computer Engineering Student at Cairo university faculty of Engineering.
 
 ## Connect with me:
-![github](https://user-images.githubusercontent.com/77369927/177386396-f22229e0-b703-4fcd-92ad-5b7a7ca3d4b3.png)
 [<img src='https://user-images.githubusercontent.com/77369927/177386396-f22229e0-b703-4fcd-92ad-5b7a7ca3d4b3.png' alt='github' height='40'>](https://github.com/Hoda233)
+[<img src='(https://user-images.githubusercontent.com/77369927/177391210-2000aa59-0660-4189-a3a3-a17afa36ccf4.png' alt='github' height='40'>](https://www.linkedin.com/in/hoda-gamal-hamouda-ismail-a0170a242/)
+
+
 ## Skills:
 
 
