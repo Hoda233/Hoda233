@@ -3,8 +3,7 @@
 
 ## Connect with me:
 ![github](https://user-images.githubusercontent.com/77369927/177386396-f22229e0-b703-4fcd-92ad-5b7a7ca3d4b3.png)
-![github](https://user-images.githubusercontent.com/77369927/177386396-f22229e0-b703-4fcd-92ad-5b7a7ca3d4b3.png)
-
+[<img src='https://user-images.githubusercontent.com/77369927/177386396-f22229e0-b703-4fcd-92ad-5b7a7ca3d4b3.png' alt='github' height='40'>](https://github.com/Hoda233)
 ## Skills:
 
 
