@@ -11,9 +11,11 @@
 
 
 ## Skills:
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/77369927/177399475-76d2d57a-9d0a-4d69-a15c-0e0f8d869c7f.png" alt="bootstrap" width="40" height="40"/>
+[<img src='https://user-images.githubusercontent.com/77369927/177399475-76d2d57a-9d0a-4d69-a15c-0e0f8d869c7f.png' alt='github' height='40'>](https://www.cprogramming.com/)
+
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/77369927/177399475-76d2d57a-9d0a-4d69-a15c-0e0f8d869c7f.png" alt="bootstrap" width="40" height="40"/> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/77369927/177399475-76d2d57a-9d0a-4d69-a15c-0e0f8d869c7f.png" alt="bootstrap" width="40" height="40"/>
   
-<!--<img src='' height='40'><img src='https://user-images.githubusercontent.com/77369927/177399491-0dad45b0-b292-4236-a10f-e3a5b795ea34.png' height='40'><img src='https://user-images.githubusercontent.com/77369927/177399497-d677fdfa-14c1-4253-8054-cb5d29526168.png' height='40'><img src='https://user-images.githubusercontent.com/77369927/177400527-60362bb0-d52f-45b1-8d8b-923dd3bf3107.png' height='40'>
+<!--<img src='' height='40'><img src='' height='40'><img src='https://user-images.githubusercontent.com/77369927/177399497-d677fdfa-14c1-4253-8054-cb5d29526168.png' height='40'><img src='https://user-images.githubusercontent.com/77369927/177400527-60362bb0-d52f-45b1-8d8b-923dd3bf3107.png' height='40'>
 -->
 
 <!-- 
