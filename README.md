@@ -11,13 +11,14 @@
 
 
 ## Skills:
-[<img src='https://user-images.githubusercontent.com/77369927/177399475-76d2d57a-9d0a-4d69-a15c-0e0f8d869c7f.png' alt='github' height='40'>](https://www.cprogramming.com/)
-[<img src='https://user-images.githubusercontent.com/77369927/177403816-df7283db-2256-4870-9210-e78123c02def.png' alt='github' height='40'>](https://www.w3schools.com/cpp/)
+[<img src='https://user-images.githubusercontent.com/77369927/177399475-76d2d57a-9d0a-4d69-a15c-0e0f8d869c7f.png' alt='c' height='40'>](https://www.cprogramming.com/)
+[<img src='https://user-images.githubusercontent.com/77369927/177403816-df7283db-2256-4870-9210-e78123c02def.png' alt='cpp' height='40'>](https://www.w3schools.com/cpp/)
+[<img src='https://user-images.githubusercontent.com/77369927/177403978-53bc1c82-5bd9-48e2-ba08-50e33c032502.png' alt='csharp' height='40'>](https://www.w3schools.com/cs/index.php)
 
 
-![cpp]()
 
 <!--
+
 **Hoda233/Hoda233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
