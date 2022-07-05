@@ -1,7 +1,9 @@
 ## Hi there 👋, my name is Hoda Gamal.
 #### A Computer Engineering Student at Cairo university faculty of Engineering.
 
-# Connect with me:
+## Connect with me:
+## Skills:
+
 
 <!--
 **Hoda233/Hoda233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
