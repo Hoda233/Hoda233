@@ -20,7 +20,7 @@
 [<img src='https://user-images.githubusercontent.com/77369927/177411174-e881cfa8-b69b-474d-8878-f3a3dd10f00c.png' alt='arduino' height='40'>](https://www.arduino.cc/)
 [<img src='https://user-images.githubusercontent.com/77369927/177411176-275c7dbb-2bbf-4ffd-8427-8f57480bbeac.png' alt='assembly' height='40'>](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 [<img src='https://user-images.githubusercontent.com/77369927/177411179-e03cf177-6008-4670-b088-432b27c94a55.png' alt='linux' height='40'>](https://www.linux.org/)
-[<img src='https://user-images.githubusercontent.com/77369927/177411170-95c0353d-3127-4b12-a651-7bef1289a18a.png' alt='sql' height='40'>](https://www.w3schools.com/sql/)
+[<img src='https://user-images.githubusercontent.com/77369927/177412672-b9ee562a-a3b5-47d5-aeba-ff3a5c725646.png' alt='sql' height='40'>](https://www.w3schools.com/sql/)
 [<img src='https://user-images.githubusercontent.com/77369927/177411180-71b9fc16-2489-49f0-9259-16cebd1e6510.png' alt='mongodb' height='40'>](https://www.mongodb.com/
 )
 
