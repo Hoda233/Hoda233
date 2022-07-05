@@ -4,10 +4,10 @@
 ## Connect with me:
 [<img src='https://user-images.githubusercontent.com/77369927/177386396-f22229e0-b703-4fcd-92ad-5b7a7ca3d4b3.png' alt='github' height='40'>](https://github.com/Hoda233)
 [<img src='(https://user-images.githubusercontent.com/77369927/177391210-2000aa59-0660-4189-a3a3-a17afa36ccf4.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/hoda-gamal-hamouda-ismail-a0170a242/)
-[<img src='https://user-images.githubusercontent.com/77369927/177392204-55d2e5b9-9306-45aa-a433-a9bd1e74dcec.png' alt='gmail' height='40'>](hodagamal805@gmail.com)
-[<img src='https://user-images.githubusercontent.com/77369927/177392204-55d2e5b9-9306-45aa-a433-a9bd1e74dcec.png' alt='gmail' height='40'>](hoda.ismail00@eng-st.cu.edu.eg)
+[<img src='https://user-images.githubusercontent.com/77369927/177392204-55d2e5b9-9306-45aa-a433-a9bd1e74dcec.png' alt='gmail' height='40'>](mailto:hodagamal805@gmail.com)
+[<img src='https://user-images.githubusercontent.com/77369927/177392204-55d2e5b9-9306-45aa-a433-a9bd1e74dcec.png' alt='gmail' height='40'>](mailto:hoda.ismail00@eng-st.cu.edu.eg)
 [<img src='https://user-images.githubusercontent.com/77369927/177392513-fccf91ba-8a85-425e-bf2a-3237b5eb399d.png' alt='codeforces' height='40'>](https://codeforces.com/profile/hoda.ismail00)
-
+[<img src='https://user-images.githubusercontent.com/77369927/177393220-070d6fba-1ac7-4481-9441-a06670f097bc.png' alt='hackerrank' height='40'>](https://www.hackerrank.com/hoda_ismail00?hr_r=1)
 
 
 ## Skills:
