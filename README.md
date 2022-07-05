@@ -1,5 +1,4 @@
-<h1> Hi there 👋, my name is Hoda Gamal.<h1/>
-<h3>A Computer Engineering Student at Cairo university faculty of Engineering.<h3/>
+<h1> Hi there 👋, my name is Hoda Gamal.<h1/><h3>A Computer Engineering Student at Cairo university faculty of Engineering.<h3/>
 <!--
 **Hoda233/Hoda233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
