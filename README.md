@@ -2,7 +2,9 @@
 #### A Computer Engineering Student at Cairo university faculty of Engineering.
 
 ## Connect with me:
-[<img src='https://drive.google.com/file/d/1C1Ea2EOxPOXc__8P9kNwtMEEn3WumnOX/view?usp=sharing' alt='github' height='40'>]()
+![github](https://user-images.githubusercontent.com/77369927/177386396-f22229e0-b703-4fcd-92ad-5b7a7ca3d4b3.png)
+![github](https://user-images.githubusercontent.com/77369927/177386396-f22229e0-b703-4fcd-92ad-5b7a7ca3d4b3.png)
+
 ## Skills:
 
 
