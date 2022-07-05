@@ -24,10 +24,9 @@
 [<img src='https://user-images.githubusercontent.com/77369927/177411180-71b9fc16-2489-49f0-9259-16cebd1e6510.png' alt='mongodb' height='40'>](https://www.mongodb.com/
 )
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoda233&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoda233&theme=tokyonight)
-
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hoda233&show_icons=true&locale=en&layout=compact" alt="norhanreda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hoda233&show_icons=true&locale=en" alt="norhanreda" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hoda233&" alt="norhanreda" /></p>
 <!--
 
 
