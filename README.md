@@ -24,6 +24,7 @@
 [<img src='https://user-images.githubusercontent.com/77369927/177411180-71b9fc16-2489-49f0-9259-16cebd1e6510.png' alt='mongodb' height='40'>](https://www.mongodb.com/
 )
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoda233&show_icons=true&theme=tokyonight)
 
 
 <!--
@@ -42,3 +43,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+2
