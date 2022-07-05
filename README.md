@@ -17,6 +17,13 @@
 [<img src='https://user-images.githubusercontent.com/77369927/177409957-25e7c973-4dbd-43c1-825a-8fa990a33e99.png' alt='java' height='40'>](https://www.java.com/en/)
 [<img src='https://user-images.githubusercontent.com/77369927/177410168-c2f52978-5a06-40e9-a6cb-829fb713cd0c.png' alt='html' height='40'>](https://www.w3schools.com/html/default.asp)
 [<img src='https://user-images.githubusercontent.com/77369927/177410178-d5c820a4-1caa-4958-abbd-90f7c2aa388d.png' alt='css' height='40'>](https://www.w3schools.com/css/)
+[<img src='https://user-images.githubusercontent.com/77369927/177411174-e881cfa8-b69b-474d-8878-f3a3dd10f00c.png' alt='arduino' height='40'>](https://www.arduino.cc/)
+[<img src='https://user-images.githubusercontent.com/77369927/177411176-275c7dbb-2bbf-4ffd-8427-8f57480bbeac.png' alt='assembly' height='40'>](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
+[<img src='https://user-images.githubusercontent.com/77369927/177411179-e03cf177-6008-4670-b088-432b27c94a55.png' alt='linux' height='40'>](https://www.linux.org/)
+[<img src='https://user-images.githubusercontent.com/77369927/177411170-95c0353d-3127-4b12-a651-7bef1289a18a.png' alt='sql' height='40'>](https://www.w3schools.com/sql/)
+[<img src='https://user-images.githubusercontent.com/77369927/177411180-71b9fc16-2489-49f0-9259-16cebd1e6510.png' alt='mongodb' height='40'>](https://www.mongodb.com/
+)
+
 
 
 <!--
