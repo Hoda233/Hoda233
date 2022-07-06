@@ -25,9 +25,7 @@
 [<img src='https://user-images.githubusercontent.com/77369927/177411180-71b9fc16-2489-49f0-9259-16cebd1e6510.png' alt='mongodb' height='40'>](https://www.mongodb.com/
 )
 
-## My CV:![cv](https://user-images.githubusercontent.com/77369927/177454640-ec20767f-fc95-4746-9a97-96ab19676a62.png)
-
-[Hoda_Gamal_Hamouda.pdf](https://github.com/Hoda233/Hoda233/files/9049834/Hoda_Gamal_Hamouda.pdf)
+## My CV:[<img src='https://user-images.githubusercontent.com/77369927/177454841-70dfedf7-d7da-4e39-af52-80c4b73ee62f.png' alt='cv' height='40'>](https://github.com/Hoda233/Hoda233/files/9049834/Hoda_Gamal_Hamouda.pdf)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hoda233&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
