@@ -1,33 +1,50 @@
-# Hi there 👋, my name is Hoda Gamal.
-## A Computer Engineering Student at Cairo university faculty of Engineering.
+<h1 align=center> Hi there 👋, my name is Hoda Gamal.</h1>
 
-<img src='https://img.freepik.com/free-vector/flat-design-young-girl-programmer-working_23-2148267156.jpg?w=740&t=st=1661975012~exp=1661975612~hmac=1181b9289e90a5c2a8f4d7c8631ba3de6648e296207ae2fa5334917fd1bc3080' alt='github' align="center">
+<h2 align=center> A Computer Engineering Student at Cairo university faculty of Engineering. </h2>
+
+<p align="center">
+<img src='https://img.freepik.com/free-vector/flat-design-young-girl-programmer-working_23-2148267156.jpg?w=2000' alt='girl' width='500' height='500'>
+</p>
+
+## About me:
+
+- 🔭 I’m currently working on improving my Front-End skills.
+- 🌱 I’m currently learning about Web Development and Machine Learning.
+- 👯 I’m looking to collaborate on developing Web Applications.
+- 💬 Ask me about anything in computer engineering, I'd be happy to help as much as I can.
+- 📫 How to reach me: hoda.ismail00@eng-st.cu.edu.eg
 
 ## Connect with me:
-[<img src='https://user-images.githubusercontent.com/77369927/177386396-f22229e0-b703-4fcd-92ad-5b7a7ca3d4b3.png' alt='github' height='40'>](https://github.com/Hoda233)
-[<img src='https://user-images.githubusercontent.com/77369927/177397473-368c77a0-6567-4276-ae9b-d7aeac83636e.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/hoda-gamal-hamouda-ismail-a0170a242/)
+
+[<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hoda-gamal-hamouda-ismail-a0170a242/)
 [<img src='https://user-images.githubusercontent.com/77369927/177392204-55d2e5b9-9306-45aa-a433-a9bd1e74dcec.png' alt='gmail' height='40'>](mailto:hodagamal805@gmail.com)
 [<img src='https://user-images.githubusercontent.com/77369927/177392204-55d2e5b9-9306-45aa-a433-a9bd1e74dcec.png' alt='gmail' height='40'>](mailto:hoda.ismail00@eng-st.cu.edu.eg)
 [<img src='https://user-images.githubusercontent.com/77369927/177392513-fccf91ba-8a85-425e-bf2a-3237b5eb399d.png' alt='codeforces' height='40'>](https://codeforces.com/profile/hoda.ismail00)
 [<img src='https://user-images.githubusercontent.com/77369927/177393220-070d6fba-1ac7-4481-9441-a06670f097bc.png' alt='hackerrank' height='40'>](https://www.hackerrank.com/hoda_ismail00?hr_r=1)
 
-
 ## Skills:
-[<img src='https://user-images.githubusercontent.com/77369927/177399475-76d2d57a-9d0a-4d69-a15c-0e0f8d869c7f.png' alt='c' height='40'>](https://www.cprogramming.com/)
-[<img src='https://user-images.githubusercontent.com/77369927/177403816-df7283db-2256-4870-9210-e78123c02def.png' alt='cpp' height='40'>](https://www.w3schools.com/cpp/)
-[<img src='https://user-images.githubusercontent.com/77369927/177403978-53bc1c82-5bd9-48e2-ba08-50e33c032502.png' alt='csharp' height='40'>](https://www.w3schools.com/cs/index.php)
-[<img src='https://user-images.githubusercontent.com/77369927/177409957-25e7c973-4dbd-43c1-825a-8fa990a33e99.png' alt='java' height='40'>](https://www.java.com/en/)
-[<img src='https://user-images.githubusercontent.com/77369927/177410168-c2f52978-5a06-40e9-a6cb-829fb713cd0c.png' alt='html' height='40'>](https://www.w3schools.com/html/default.asp)
-[<img src='https://user-images.githubusercontent.com/77369927/177410178-d5c820a4-1caa-4958-abbd-90f7c2aa388d.png' alt='css' height='40'>](https://www.w3schools.com/css/)
-[<img src='https://user-images.githubusercontent.com/77369927/177411174-e881cfa8-b69b-474d-8878-f3a3dd10f00c.png' alt='arduino' height='40'>](https://www.arduino.cc/)
-[<img src='https://user-images.githubusercontent.com/77369927/177411176-275c7dbb-2bbf-4ffd-8427-8f57480bbeac.png' alt='assembly' height='40'>](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
-[<img src='https://user-images.githubusercontent.com/77369927/177411179-e03cf177-6008-4670-b088-432b27c94a55.png' alt='linux' height='40'>](https://www.linux.org/)
-[<img src='https://user-images.githubusercontent.com/77369927/177412672-b9ee562a-a3b5-47d5-aeba-ff3a5c725646.png' alt='sql' height='40'>](https://www.w3schools.com/sql/)
-[<img src='https://user-images.githubusercontent.com/77369927/177411180-71b9fc16-2489-49f0-9259-16cebd1e6510.png' alt='mongodb' height='40'>](https://www.mongodb.com/
-)
 
-## My CV:
-[<img src='https://user-images.githubusercontent.com/77369927/177454841-70dfedf7-d7da-4e39-af52-80c4b73ee62f.png' alt='cv' height='40'>](https://github.com/Hoda233/Hoda233/files/9049834/Hoda_Gamal_Hamouda.pdf)
+[<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg' alt='c' width='40' height='40'>](https://www.w3schools.com/c/)
+[<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg' alt='cpp' width='40' height='40'>](https://www.w3schools.com/cpp/)
+[<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg' alt='csharp' width='40' height='40'>](https://www.w3schools.com/cs/index.php)
+[<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg' alt='java' width='40' height='40'>](https://www.java.com/en/)
+
+[<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg' alt='html' width='40' height='40'>](https://www.w3schools.com/html/default.asp)
+[<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg' alt='css' width='40' height='40'>](https://www.w3schools.com/css/)
+[<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg' alt='js' width='40' height='40'>](https://www.w3schools.com/js/default.asp)
+[<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg' alt='js' width='40' height='40'>](https://vuejs.org/)
+
+[<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-plain-wordmark.svg' alt='mongodb' width='40' height='40'>](https://www.mongodb.com/)
+[<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg' alt='sql' width='40' height='40'>](https://www.w3schools.com/sql/)
+
+[<img src='https://user-images.githubusercontent.com/77369927/177411176-275c7dbb-2bbf-4ffd-8427-8f57480bbeac.png' alt='assembly' width='40' height='40'>](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
+[<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original-wordmark.svg' alt='arduino' height='40'>](https://www.arduino.cc/)
+
+[<img src='https://user-images.githubusercontent.com/77369927/177411179-e03cf177-6008-4670-b088-432b27c94a55.png' alt='linux' width='40' height='40'>](https://www.linux.org/)
+
+## My Resume:
+
+[<img src='https://user-images.githubusercontent.com/77369927/177454841-70dfedf7-d7da-4e39-af52-80c4b73ee62f.png' alt='cv' height='40'>](https://drive.google.com/file/d/1YyzAnyc0Q92KT0vJVMfjnqoOcXhfqN4a/view?usp=sharing)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hoda233&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
