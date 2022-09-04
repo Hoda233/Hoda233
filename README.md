@@ -46,11 +46,11 @@
 
 [<img src='https://user-images.githubusercontent.com/77369927/177454841-70dfedf7-d7da-4e39-af52-80c4b73ee62f.png' alt='cv' height='40'>](https://drive.google.com/file/d/1YyzAnyc0Q92KT0vJVMfjnqoOcXhfqN4a/view?usp=sharing)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hoda233&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hoda233&count_private=true&show_icons=true&theme=radical)](https://github.com/Hoda233/github-readme-stats)
 
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoda233&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoda233&show_icons=true&theme=radical&layout=compact)](https://github.com/Hoda233/github-readme-stats)
+
 
 <!--
 
