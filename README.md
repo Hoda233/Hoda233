@@ -46,11 +46,6 @@
 
 [<img src='https://user-images.githubusercontent.com/77369927/177454841-70dfedf7-d7da-4e39-af52-80c4b73ee62f.png' alt='cv' height='40'>](https://drive.google.com/file/d/1YyzAnyc0Q92KT0vJVMfjnqoOcXhfqN4a/view?usp=sharing)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hoda233&show_icons=true&locale=en&layout=compact" alt="Hoda233" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hoda233&show_icons=true&locale=en" alt="Hoda233" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hoda233&" alt="Hoda233" /></p>
 
 
 <!--
