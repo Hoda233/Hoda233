@@ -16,7 +16,7 @@
 
 ## Connect with me:
 
-[<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hoda-gamal-hamouda-ismail-a0170a242/)
+[<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hoda-gamal-a0170a242/)
 [<img src='https://user-images.githubusercontent.com/77369927/177392204-55d2e5b9-9306-45aa-a433-a9bd1e74dcec.png' alt='gmail' height='40'>](mailto:hodagamal805@gmail.com)
 [<img src='https://user-images.githubusercontent.com/77369927/177392204-55d2e5b9-9306-45aa-a433-a9bd1e74dcec.png' alt='gmail' height='40'>](mailto:hoda.ismail00@eng-st.cu.edu.eg)
 [<img src='https://user-images.githubusercontent.com/77369927/177392513-fccf91ba-8a85-425e-bf2a-3237b5eb399d.png' alt='codeforces' height='40'>](https://codeforces.com/profile/hoda.ismail00)
