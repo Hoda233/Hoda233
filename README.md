@@ -24,29 +24,28 @@
 
 ## Skills:
 
+[<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg' alt='js' width='40' height='40'>](https://vuejs.org/)
+[<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg' alt='html' width='40' height='40'>](https://www.w3schools.com/html/default.asp)
+[<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg' alt='css' width='40' height='40'>](https://www.w3schools.com/css/)
+[<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg' alt='js' width='40' height='40'>](https://www.w3schools.com/js/default.asp)
+[<img src='https://user-images.githubusercontent.com/77369927/215290828-6e054998-df0f-40f4-a828-4185e01bb392.png' alt='python' width='40' height='40'>](https://www.python.org/)
 [<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg' alt='c' width='40' height='40'>](https://www.w3schools.com/c/)
 [<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg' alt='cpp' width='40' height='40'>](https://www.w3schools.com/cpp/)
 [<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg' alt='csharp' width='40' height='40'>](https://www.w3schools.com/cs/index.php)
 [<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg' alt='java' width='40' height='40'>](https://www.java.com/en/)
-
-[<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg' alt='html' width='40' height='40'>](https://www.w3schools.com/html/default.asp)
-[<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg' alt='css' width='40' height='40'>](https://www.w3schools.com/css/)
-[<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg' alt='js' width='40' height='40'>](https://www.w3schools.com/js/default.asp)
-[<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg' alt='js' width='40' height='40'>](https://vuejs.org/)
-
 [<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-plain-wordmark.svg' alt='mongodb' width='40' height='40'>](https://www.mongodb.com/)
 [<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg' alt='sql' width='40' height='40'>](https://www.w3schools.com/sql/)
-
 [<img src='https://user-images.githubusercontent.com/77369927/177411176-275c7dbb-2bbf-4ffd-8427-8f57480bbeac.png' alt='assembly' width='40' height='40'>](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 [<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original-wordmark.svg' alt='arduino' height='40'>](https://www.arduino.cc/)
-
 [<img src='https://user-images.githubusercontent.com/77369927/177411179-e03cf177-6008-4670-b088-432b27c94a55.png' alt='linux' width='40' height='40'>](https://www.linux.org/)
 
 ## My Resume:
 
 [<img src='https://user-images.githubusercontent.com/77369927/177454841-70dfedf7-d7da-4e39-af52-80c4b73ee62f.png' alt='cv' height='40'>](https://drive.google.com/file/d/1EC2OtcYlZ05rlhDGnxmXPoVTmiXFUTZR/view?usp=sharing)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoda233&count_private=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoda233&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 
