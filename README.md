@@ -8,9 +8,9 @@
 
 ## About me:
 
-- 🔭 I’m currently working on improving my skills in web development.
-- 🌱 I’m currently learning about Web Development and Image Processing.
-- 👯 I’m looking to collaborate on developing Web Applications.
+- 💻 I’m currently working on improving my skills in web development.
+- 💻 I’m currently learning about Web Development and Image Processing.
+- 🔎 I’m looking to collaborate on developing Web Applications.
 - 💬 Ask me about anything in computer engineering, I'd be happy to help as much as I can.
 - 📫 How to reach me: hoda.ismail00@eng-st.cu.edu.eg
 
