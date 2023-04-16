@@ -47,6 +47,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoda233&theme=radical)](https://github.com/Hoda233/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=Hoda233&color=ff69b4)
+
 
 <!--
 
