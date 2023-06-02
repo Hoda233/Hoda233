@@ -45,7 +45,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoda233&theme=radical)](https://github.com/Hoda233/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoda233&theme=radical)](https://github.com/Hoda233/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoda233&method=repos&theme=radical)](https://github.com/Hoda233/github-readme-stats)
 
 [![](https://raw.githubusercontent.com/Hoda233/statistics/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/Hoda233/github-profile-summary-cards) 
 
