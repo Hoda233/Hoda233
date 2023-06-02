@@ -47,6 +47,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoda233&method=repos&theme=radical)](https://github.com/Hoda233/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoda233&method=commits&theme=radical)](https://github.com/Hoda233/github-readme-stats)
+
 <!--
 
 **Hoda233/Hoda233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
