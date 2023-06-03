@@ -49,7 +49,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoda233&size_weight=0&count_weight=1&theme=radical)](https://github.com/Hoda233/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoda233&size_weight=0.3&count_weight=0.7&theme=radical)](https://github.com/Hoda233/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoda233&size_weight=0.9&count_weight=0.1&theme=radical)](https://github.com/Hoda233/github-readme-stats)
 
 
 <!--
