@@ -47,9 +47,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoda233&theme=radical&exclude_repo=Neural-Networks-Labs)](https://github.com/Hoda233/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoda233&size_weight=0&count_weight=1&theme=radical)](https://github.com/Hoda233/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoda233&size_weight=0&count_weight=1&theme=radical)](https://github.com/Hoda233/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoda233&size_weight=0.4&count_weight=0.6&theme=radical)](https://github.com/Hoda233/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoda233&size_weight=0.4&count_weight=0.6&theme=radical)](https://github.com/Hoda233/github-readme-stats) -->
 
 
 <!--
