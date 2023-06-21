@@ -44,7 +44,7 @@
 
 [<img src='https://user-images.githubusercontent.com/77369927/177454841-70dfedf7-d7da-4e39-af52-80c4b73ee62f.png' alt='cv' height='40'>](https://drive.google.com/file/d/1A9pX_WYQsl5VtoDB_2VFdpglUFHxvNsp/view?usp=sharing)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoda233&theme=radical)](https://github.com/Hoda233/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoda233)](https://github.com/Hoda233/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoda233&theme=radical&exclude_repo=Neural-Networks-Labs)](https://github.com/Hoda233/github-readme-stats)
 
