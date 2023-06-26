@@ -7,8 +7,9 @@
 </p>
 
 ## About me:
-
+<!--
 - 💻 I’m currently working on improving my skills in web development and machine learning.
+-->
 - 💻 I’m currently learning about Web Development and Machine Learning.
 - 🔎 I’m looking to collaborate on developing web applications or machine learning projects.
 - 💬 Ask me about anything in computer engineering, I'd be happy to help as much as I can.
