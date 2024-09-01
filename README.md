@@ -1,29 +1,30 @@
 <h1 align=center> Hi there 👋, my name is Hoda Gamal.</h1>
 
-<h2 align=center> A Computer Engineering Student at Cairo university faculty of Engineering. </h2>
+<h2 align=center> A Fresh Graduate | Computer Engineering, Cairo university, faculty of Engineering. </h2>
 
-<p align="center">
+<!-- <p align="center">
 <img src='https://img.freepik.com/free-vector/flat-design-young-girl-programmer-working_23-2148267156.jpg?w=2000' alt='girl' width='500' height='500'>
-</p>
+</p> -->
 
 ## About me:
 <!--
 - 💻 I’m currently working on improving my skills in web development and machine learning.
 -->
-- 💻 I’m currently learning about Web Development and Machine Learning.
-- 🔎 I’m looking to collaborate on developing web applications or machine learning projects.
+- 💻 I’m currently learning about Web Development.
+- 🔎 I’m looking to collaborate on developing web applications.
 - 💬 Ask me about anything in computer engineering, I'd be happy to help as much as I can.
 - 📫 How to reach me: hoda.ismail00@eng-st.cu.edu.eg
+- My Resume: [click here](https://drive.google.com/file/d/1_HmeULtXAvvIafPwqaT-cXINwlOUSL-a/view?usp=sharing)
 
-## Connect with me:
+<!-- ## Connect with me: -->
 
-[<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hoda-gamal-a0170a242/)
+<!-- [<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hoda-gamal-a0170a242/)
 [<img src='https://user-images.githubusercontent.com/77369927/177392204-55d2e5b9-9306-45aa-a433-a9bd1e74dcec.png' alt='gmail' height='40'>](mailto:hodagamal805@gmail.com)
-[<img src='https://user-images.githubusercontent.com/77369927/177392204-55d2e5b9-9306-45aa-a433-a9bd1e74dcec.png' alt='gmail' height='40'>](mailto:hoda.ismail00@eng-st.cu.edu.eg)
-[<img src='https://user-images.githubusercontent.com/77369927/177392513-fccf91ba-8a85-425e-bf2a-3237b5eb399d.png' alt='codeforces' height='40'>](https://codeforces.com/profile/hoda.ismail00)
-[<img src='https://user-images.githubusercontent.com/77369927/177393220-070d6fba-1ac7-4481-9441-a06670f097bc.png' alt='hackerrank' height='40'>](https://www.hackerrank.com/hoda_ismail00?hr_r=1)
+[<img src='https://user-images.githubusercontent.com/77369927/177392204-55d2e5b9-9306-45aa-a433-a9bd1e74dcec.png' alt='gmail' height='40'>](mailto:hoda.ismail00@eng-st.cu.edu.eg) -->
+<!-- [<img src='https://user-images.githubusercontent.com/77369927/177392513-fccf91ba-8a85-425e-bf2a-3237b5eb399d.png' alt='codeforces' height='40'>](https://codeforces.com/profile/hoda.ismail00)
+[<img src='https://user-images.githubusercontent.com/77369927/177393220-070d6fba-1ac7-4481-9441-a06670f097bc.png' alt='hackerrank' height='40'>](https://www.hackerrank.com/hoda_ismail00?hr_r=1) -->
 
-## Skills:
+<!-- ## Skills:
 
 [<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg' alt='js' width='40' height='40'>](https://vuejs.org/)
 [<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg' alt='html' width='40' height='40'>](https://www.w3schools.com/html/default.asp)
@@ -39,15 +40,15 @@
 [<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg' alt='sql' width='40' height='40'>](https://www.w3schools.com/sql/)
 [<img src='https://user-images.githubusercontent.com/77369927/177411176-275c7dbb-2bbf-4ffd-8427-8f57480bbeac.png' alt='assembly' width='40' height='40'>](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 [<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original-wordmark.svg' alt='arduino' height='40'>](https://www.arduino.cc/)
-[<img src='https://user-images.githubusercontent.com/77369927/177411179-e03cf177-6008-4670-b088-432b27c94a55.png' alt='linux' width='40' height='40'>](https://www.linux.org/)
+[<img src='https://user-images.githubusercontent.com/77369927/177411179-e03cf177-6008-4670-b088-432b27c94a55.png' alt='linux' width='40' height='40'>](https://www.linux.org/) -->
 
-## My Resume:
+<!-- ## My Resume:
 
-[<img src='https://user-images.githubusercontent.com/77369927/177454841-70dfedf7-d7da-4e39-af52-80c4b73ee62f.png' alt='cv' height='40'>](https://drive.google.com/file/d/1_HmeULtXAvvIafPwqaT-cXINwlOUSL-a/view?usp=sharing)
+[<img src='https://user-images.githubusercontent.com/77369927/177454841-70dfedf7-d7da-4e39-af52-80c4b73ee62f.png' alt='cv' height='40'>](https://drive.google.com/file/d/1_HmeULtXAvvIafPwqaT-cXINwlOUSL-a/view?usp=sharing) -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoda233&theme=tokyonight)](https://github.com/Hoda233/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoda233&theme=tokyonight)](https://github.com/Hoda233/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoda233&exclude_repo=Neural-Networks-Labs&theme=tokyonight)](https://github.com/Hoda233/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoda233&exclude_repo=Neural-Networks-Labs&theme=tokyonight)](https://github.com/Hoda233/github-readme-stats) -->
 
 <!--
 
